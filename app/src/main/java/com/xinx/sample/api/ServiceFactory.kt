@@ -1,6 +1,5 @@
 package com.xinx.sample.api
 
-import com.android.example.github.util.LiveDataCallAdapterFactory
 import com.xinx.sample.BuildConfig
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
